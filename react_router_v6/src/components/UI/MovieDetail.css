@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.name-c{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 3rem 23rem;
+  
+}
+.left-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    width: 37vw;
+    flex-wrap: wrap;
+}
+p{
+    font-size: 23px;
+    font-weight: 900;
+    letter-spacing: 0.1px;
+}
+span{
+    font-weight: 350;
+}
